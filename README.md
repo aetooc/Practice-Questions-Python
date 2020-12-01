@@ -1,1 +1,2 @@
-# Practice-Questions-Python
+# Practice Questions Python:
+These are few practice questions for python.
